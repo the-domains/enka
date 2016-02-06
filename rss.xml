@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[enka millhar]]></title>
         <description><![CDATA[enka millhar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/enka/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 17:36:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 17:36:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/enka/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Personalized Nutrition Consultation ]]></title>
+            <description><![CDATA[<article><h1>Personalized Nutrition Consultation </h1><p>Nutritional Consultation starts with addressing your needs, priorities, concerns and continues with follow ups to ensure that the plan is working for you. It is important to recognize that everyone is different and personalized approach is vital to achive best results for you. You will get full attention, support and tools which empower you to take more confident steps in your healthier lifestyle journey.</p></article>]]></description>
+            <link>https://thegrid.ai/enka/personalized-nutrition-consultation/index.html</link>
+            <guid isPermaLink="false">30507c0c-6624-4869-a589-8d3f193c4c64</guid>
+            <pubDate>Sat, 06 Feb 2016 17:36:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About me]]></title>
             <description><![CDATA[<article><h1>About me</h1><h2>I am Enka Perinaj a nutritional psychologist with a background in the psychology, nutrition, holistic health and yoga. Currently I'm based in Prague, Czech Republic.</h2><p> My focus is on nutritional psychology, with </p></article>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <link>https://thegrid.ai/enka/about-me/index.html</link>
             <guid isPermaLink="false">3fc3e0c3-4c35-4ae8-9389-29a6a9b62de7</guid>
             <pubDate>Sat, 06 Feb 2016 17:36:29 GMT</pubDate>
         </item>
