@@ -1,0 +1,29 @@
+name: enka
+favicon: null
+layout_spectrum: 0.5555058640893549
+typography_spectrum: 0.7047886792570353
+title: enka millhar
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7498031537979841
+  lightness: 0.32180730579420924
+  saturation: 0.3252885180991143
+  rhythmicContrast: 0.05661170789971948
+purpose: []
